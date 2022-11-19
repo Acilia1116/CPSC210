@@ -1,0 +1,14 @@
+{
+    "songs": [
+        {
+            "artist": "AC/DC",
+            "title": "Highway to Hell"
+        },
+        {
+            "artist": "AC/DC",
+            "title": "Back In Black"
+        }
+    ],
+    "name": "My Playlist",
+    "description": "My Favourite Songs"
+}
